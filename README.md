@@ -1,11 +1,11 @@
 <h1 align="center">Wsg World 👋 My name is Ciril Biju 🧑🏽‍💻</h1>
-
+<br></br>
 <h3 align="center">🎓BCS student at University of New Brunswick 2026 (almost there)</h3>
 <h3 align="center">⚡Working on a lot of projects and a summer internship</h3>
 <h3 align="center">🌱Currently learning A lot 😤✋↕️</h3>
 <h3 align="center">💬Ask me about java, c .... umm photography, graphic designing and football or anything else ...</h3>
 <h3 align="center">🫸🔵🔴🫷🫴🟣</h3>
-
+<br></br>
 <h2 align="center">Connect with me (here 👇 )</h2>
 
 <div align="center">
@@ -22,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo" />
   </a>
 </div>
-
+<br></br>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
@@ -41,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo" />
 </div>
-
+<br></br>
 <h2 align="center">⚡Stats⚡</h2>
 
 <div align="center">
@@ -49,7 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CBJdereal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CBJdereal&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
-
+<br></br>
 <h2 align="center">🎧My jam🎧</h2>
 
 <div align="center">
@@ -57,7 +57,7 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=zvw2hang7oqmxvwmmj9626g7f&count=10&unique=true" alt="Spotify recently played" />
   </a>
 </div>
-
+<br></br>
 <div align="center">
   <img src="https://profile-counter.glitch.me/CBJdereal/count.svg?" />
 </div>
