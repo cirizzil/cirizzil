@@ -6,21 +6,13 @@
 
 <br clear="both">
 <h3 align="center">🎓BCS student at University of New Brunswick 2026 (almost there)</h3>
-
-###
-
 <br clear="both">
 <h3 align="center">⚡Working on a lot of projects and a summer internship</h3>
-
-###
-
 <br clear="both">
 <h3 align="center">🌱Currenty learning A lot 😤✋↕️</h3>
-
-###
-
 <br clear="both">
 <h3 align="center">💬Ask me about java , c .... umm photography, graphic designing and football or anything else 🫸🔵🔴🫷🫴🟣</h3>
+
 ###
 
 <br clear="both">
