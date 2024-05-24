@@ -7,6 +7,7 @@
 <h3 align="center">🫸🔵🔴🫷🫴🟣</h3>
 
 <h2 align="center">Connect with me (here 👇 )</h2>
+
 <div align="center">
   <a href="CBJ07#3912" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
@@ -23,6 +24,7 @@
 </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo" />
@@ -41,6 +43,7 @@
 </div>
 
 <h2 align="center">⚡Stats⚡</h2>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CBJdereal&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CBJdereal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
@@ -48,6 +51,7 @@
 </div>
 
 <h2 align="center">🎧My jam🎧</h2>
+
 <div align="center">
   <a href="https://open.spotify.com/user/zvw2hang7oqmxvwmmj9626g7f">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=zvw2hang7oqmxvwmmj9626g7f&count=10&unique=true" alt="Spotify recently played" />
