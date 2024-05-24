@@ -1,31 +1,22 @@
 <br clear="both">
 
-<h1 align="center">Wsg World 👋 My name is Ciril Biju 🧑🏽‍💻</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dela+Gothic+One&pause=1000&random=false&width=435&lines=Wsg+World+%F0%9F%91%8B+My+name+is+Ciril+Biju+%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a></h1>
 
 ###
 
 <br clear="both">
-
 <h3 align="center">🎓BCS student at University of New Brunswick 2026 (almost there)</h3>
 
 ###
 
 <br clear="both">
-
 <h3 align="center">⚡Working on a lot of projects and a summer internship</h3>
-
 ###
-
 <br clear="both">
-
 <h3 align="center">🌱Currenty learning A lot 😤✋↕️</h3>
-
 ###
-
 <br clear="both">
-
 <h3 align="center">💬Ask me about java , c .... umm photography, graphic designing and football or anything else 🫸🔵🔴🫷🫴🟣</h3>
-
 ###
 
 <br clear="both">
