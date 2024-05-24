@@ -11,8 +11,9 @@
 <br clear="both">
 <h3 align="center">🌱Currenty learning A lot 😤✋↕️</h3>
 <br clear="both">
-<h3 align="center">💬Ask me about java , c .... umm photography, graphic designing and football or anything else ............................🫸🔵🔴🫷🫴🟣</h3>
-
+<h3 align="center">💬Ask me about java , c .... umm photography, graphic designing and football or anything else ...</h3>
+<h3 align="center">🫸🔵🔴🫷🫴🟣</h3>
+  
 ###
 
 <br clear="both">
